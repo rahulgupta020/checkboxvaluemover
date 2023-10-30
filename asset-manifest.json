@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/checkboxvaluemover/static/css/main.2eed78e7.css",
+    "main.js": "/checkboxvaluemover/static/js/main.37bac1c5.js",
+    "static/js/787.37c13e6d.chunk.js": "/checkboxvaluemover/static/js/787.37c13e6d.chunk.js",
+    "index.html": "/checkboxvaluemover/index.html",
+    "main.2eed78e7.css.map": "/checkboxvaluemover/static/css/main.2eed78e7.css.map",
+    "main.37bac1c5.js.map": "/checkboxvaluemover/static/js/main.37bac1c5.js.map",
+    "787.37c13e6d.chunk.js.map": "/checkboxvaluemover/static/js/787.37c13e6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eed78e7.css",
+    "static/js/main.37bac1c5.js"
+  ]
+}
